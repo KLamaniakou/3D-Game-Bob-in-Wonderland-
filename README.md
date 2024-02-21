@@ -8,3 +8,4 @@
                  
 -Camera Implementation: A simple camera allows the player to view the scene from any angle and height, controlled by keyboard arrows and zoom keys
 
+![image](https://github.com/KLamaniakou/3D-Game-Bob-in-Wonderland-/assets/115186022/f5593bdb-bb20-4de1-a6b7-a656da176062)
